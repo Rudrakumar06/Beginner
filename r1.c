@@ -1,6 +1,8 @@
-#iclude <stdio.h>
+#include <stdio.h>
 int main()
 {
-    printf("Hi");
+    int x=0;
+
+    printf("Hi %d",x);
     return 0;
 }
